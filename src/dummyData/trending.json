@@ -1,0 +1,52 @@
+{
+  "data":[
+    {
+      "id": 133,
+      "title":"This Is How Much YouTube Paid Me for My 1,000,000 Viewed Video",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. ",
+      "author":{
+        "userName": "Tasy Stein",
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAP7mJ99JCdwsk8lYmdxzCt6J3VZttqg5YMTWnVziTtDtTSO8i&usqp=CAU"
+      },
+      "category":"Growth",
+      "publishedDate":"June 23, 2020 04:00 AM",
+      "likes": 120,
+      "isLiked": true,
+      "CommentCount": 0,
+      "CommentsData": [],
+      "articleImage": "https://miro.medium.com/max/1400/1*9qS3yM0_HipiqZ4nS0LIaQ.png"
+    },
+    {
+      "id": 154,
+      "title":"How Elon Musk’s Starlink Could Disrupt The Telecommunications Industry",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. ",
+      "author":{
+        "userName": "Tasy Stein",
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAP7mJ99JCdwsk8lYmdxzCt6J3VZttqg5YMTWnVziTtDtTSO8i&usqp=CAU"
+      },
+      "category":"Growth",
+      "publishedDate":"June 23, 2020 04:00 AM",
+      "likes": 120,
+      "isLiked": true,
+      "CommentCount": 0,
+      "CommentsData": [],
+      "articleImage": "https://miro.medium.com/max/1400/1*9qS3yM0_HipiqZ4nS0LIaQ.png"
+    },
+    {
+      "id": 152,
+      "title":"An Alarming Discovery in an Astronaut’s Bloodstream",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. ",
+      "author":{
+        "userName": "Tasy Stein",
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAP7mJ99JCdwsk8lYmdxzCt6J3VZttqg5YMTWnVziTtDtTSO8i&usqp=CAU"
+      },
+      "category":"Growth",
+      "publishedDate":"June 23, 2020 04:00 AM",
+      "likes": 120,
+      "isLiked": true,
+      "CommentCount": 0,
+      "CommentsData": [],
+      "articleImage": "https://miro.medium.com/max/1400/1*9qS3yM0_HipiqZ4nS0LIaQ.png"
+    }
+  ]
+}

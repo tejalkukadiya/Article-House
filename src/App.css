@@ -1,38 +1,105 @@
-.App {
+.login-card {
+  padding: 40px;
+  margin: 20px;
+}
+
+.profile-data {
+  padding: 40px 0 40px 0;
+}
+
+.profile-data .add-new {
+  border-radius: 24px;
+}
+
+
+.author-info p {
+  font-size: 12px;
+  margin-bottom: 0;
+}
+
+.author-info strong {
+  font-size: 14px;
+}
+
+.article-card .title-text strong {
+  font-weight: bolder;
+}
+
+.like-comment-wrapper i {
+  font-size: 18px;
+}
+
+.like-comment-wrapper span {
+  cursor: pointer;
+}
+
+.main-content-wrapper {
+  margin-top: 50px;
+}
+
+.article-list-wrapper {
+  overflow: auto;
+  max-height: 100vh;
+  min-height: 922px;
+}
+
+.article-list-wrapper::-webkit-scrollbar,
+.comment-list::-webkit-scrollbar {
+  width: 10px;
+  background-color: #F5F5F5;
+}
+
+.article-list-wrapper::-webkit-scrollbar-thumb,
+.comment-list::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+  background-color: #9fa3a5;
+}
+
+.add-comment-icon {
+  position: absolute;
+  top: 10px;
+  right: 29px;
+  color: #6c757d;
+  margin-right: 0 !important;
+}
+
+.search-icon {
+  position: absolute;
+  top: 20px;
+  right: 29px;
+  color: #6c757d;
+  margin-right: 0 !important;
+}
+
+.comment-list {
+  overflow-y: scroll;
+  max-height: 192px;
+}
+
+.dropzone-upload-wrapper {
   text-align: center;
+  border: 1px dashed #ced4da;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.drag-and-drop{
+  padding:60px;
+  cursor: pointer;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#imageCanvas-btn{
+  background-color: #6c757d;
+  border: 1px solid #343a40;
+  border-radius: 100%;
+  color: #000;
+  padding: 0px 5px!important;
+  position: absolute;
+  margin: 0;
+  top: -10px;
+  margin-left: -10px;
+  opacity: .75;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.edit-my-article{
+  cursor: pointer;
 }

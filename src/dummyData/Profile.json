@@ -1,0 +1,80 @@
+{
+  "userName": "Ronald West",
+  "articlesCount" : 3,
+  "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYJlgh5AVnwhfACl71fmhnQdn80Dj0gSSkPLxlYWLbkoStNtCs&usqp=CAU",
+  "articleList": [
+    {
+      "id": 87,
+      "title":"Why Is Data Science Losing Its Charm?",
+      "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple ",
+      "author":{
+        "userName": "Ronald West",
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYJlgh5AVnwhfACl71fmhnQdn80Dj0gSSkPLxlYWLbkoStNtCs&usqp=CAU"
+      },
+      "likes": 7,
+      "isLiked": false,
+      "category":"Technology",
+      "publishedDate":"June 14, 2020 04:23 PM",
+      "CommentCount": 1,
+      "CommentsData": [
+        {
+          "comment": "Agree with this.",
+          "userData": {
+            "userName": "Tasy Stein",
+            "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAP7mJ99JCdwsk8lYmdxzCt6J3VZttqg5YMTWnVziTtDtTSO8i&usqp=CAU"
+          },
+          "publishedDate":"June 23, 2020 11:42 AM"
+        }
+      ],
+      "articleImage": "https://miro.medium.com/max/1160/0*k-stdPM7FB8PuYFS"
+    },
+    {"id": 98,
+    "title":"how-to-build-and-deploy-a-full-stack-react-app-4adc46607604",
+    "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple ",
+    "author":{
+      "userName": "Ronald West",
+      "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYJlgh5AVnwhfACl71fmhnQdn80Dj0gSSkPLxlYWLbkoStNtCs&usqp=CAU"
+    },
+    "likes": 7,
+    "isLiked": false,
+    "category":"Technology",
+    "publishedDate":"May 12, 2020 05:00 PM",
+    "CommentCount": 1,
+    "CommentsData": [
+      {
+        "comment": "Agree with this.",
+        "userData": {
+          "userName": "Tasy Stein",
+          "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAP7mJ99JCdwsk8lYmdxzCt6J3VZttqg5YMTWnVziTtDtTSO8i&usqp=CAU"
+        },
+        "publishedDate":"June 23, 2020 11:42 AM"
+      }
+    ],
+    "articleImage": "https://miro.medium.com/max/1160/0*k-stdPM7FB8PuYFS"
+  },
+  { "id": 125,
+  "title":"It is a long established fact that a reader will be distracted by the readable content",
+  "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple ",
+  "author":{
+    "userName": "Ronald West",
+    "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYJlgh5AVnwhfACl71fmhnQdn80Dj0gSSkPLxlYWLbkoStNtCs&usqp=CAU"
+  },
+  "likes": 7,
+  "isLiked": false,
+  "category":"Technology",
+  "publishedDate":"May 12, 2020 05:45 PM",
+  "CommentCount": 1,
+  "CommentsData": [
+    {
+      "comment": "Agree with this.",
+      "userData": {
+        "userName": "Tasy Stein",
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAP7mJ99JCdwsk8lYmdxzCt6J3VZttqg5YMTWnVziTtDtTSO8i&usqp=CAU"
+      },
+      "publishedDate":"June 23, 2020 11:42 AM"
+    }
+  ],
+  "articleImage": "https://miro.medium.com/max/1160/0*k-stdPM7FB8PuYFS"
+  }
+  ]
+}
