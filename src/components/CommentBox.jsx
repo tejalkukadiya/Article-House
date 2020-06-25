@@ -26,10 +26,12 @@ class CommenBox extends React.Component {
   addComment = id => {
     const { addComment } = this.props;
     const { commentInput } = this.state;
-    addComment(id, commentInput);
-    this.setState({
-      commentInput: '',
-    })
+    if(commentInput.trim()){
+      addComment(id, commentInput);
+      this.setState({
+        commentInput: '',
+      })
+    }
   }
 
   render() {

@@ -42,6 +42,12 @@ class ArticleItem extends React.Component {
               </p>
             </div>
           </div>
+          {article.articleImage &&
+          <div className="row">
+            <div className="col text-center">
+                <img src={article.articleImage} alt="media" className="img-fluid z-depth-1" />
+            </div>
+          </div>}
           <hr />
           <div className="row like-comment-wrapper mb-2">
             <div className="col">
